@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-09T09:34:01 CDT" name="Suite1" finished-at="2022-06-09T09:34:13 CDT" duration-ms="11638">
+    <groups>
+    </groups>
+    <test started-at="2022-06-09T09:34:01 CDT" name="Nopackage" finished-at="2022-06-09T09:34:13 CDT" duration-ms="11638">
+      <class name="com.real.practice.RealPractice">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.real.practice.RealPractice@75d4a5c2]" started-at="2022-06-09T09:34:01 CDT" name="init" finished-at="2022-06-09T09:34:01 CDT" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="getDriver(org.testng.ITestContext,java.lang.String)[pri:0, instance:com.real.practice.RealPractice@75d4a5c2]" started-at="2022-06-09T09:34:01 CDT" name="getDriver" finished-at="2022-06-09T09:34:05 CDT" duration-ms="4246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@493ac8d3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="myTest()[pri:0, instance:com.real.practice.RealPractice@75d4a5c2]" started-at="2022-06-09T09:34:05 CDT" name="myTest" finished-at="2022-06-09T09:34:06 CDT" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.real.practice.RealPractice@75d4a5c2]" started-at="2022-06-09T09:34:06 CDT" name="closeDriver" finished-at="2022-06-09T09:34:07 CDT" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="getDriver(org.testng.ITestContext,java.lang.String)[pri:0, instance:com.real.practice.RealPractice@75d4a5c2]" started-at="2022-06-09T09:34:07 CDT" name="getDriver" finished-at="2022-06-09T09:34:09 CDT" duration-ms="1980" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@493ac8d3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="myTest1()[pri:0, instance:com.real.practice.RealPractice@75d4a5c2]" started-at="2022-06-09T09:34:09 CDT" name="myTest1" finished-at="2022-06-09T09:34:09 CDT" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest1 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.real.practice.RealPractice@75d4a5c2]" started-at="2022-06-09T09:34:09 CDT" name="closeDriver" finished-at="2022-06-09T09:34:09 CDT" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="getDriver(org.testng.ITestContext,java.lang.String)[pri:0, instance:com.real.practice.RealPractice@75d4a5c2]" started-at="2022-06-09T09:34:09 CDT" name="getDriver" finished-at="2022-06-09T09:34:12 CDT" duration-ms="2119" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@493ac8d3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="myTest2()[pri:0, instance:com.real.practice.RealPractice@75d4a5c2]" started-at="2022-06-09T09:34:12 CDT" name="myTest2" finished-at="2022-06-09T09:34:12 CDT" duration-ms="711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest2 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.real.practice.RealPractice@75d4a5c2]" started-at="2022-06-09T09:34:12 CDT" name="closeDriver" finished-at="2022-06-09T09:34:13 CDT" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.real.practice.RealPractice -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>
